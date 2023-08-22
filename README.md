@@ -18,6 +18,8 @@ HyperCube goes beyond the ordinary, inviting you to glimpse the extraordinary. D
 
 Don't just take our word for it—see it in action! Explore the magic of the fourth dimension through the HyperCube experience: [Live Demo](https://sidx2.github.io/Tesseract/)
 
+![fractal-tree](https://drive.google.com/uc?export=view&id=13AQtYIQi5B7z9qHf09G-DfiKxXnZg1k4)
+
 ## 🚀 Get Started
 
 Feel the exhilaration of the fourth dimension in action! Dive into the codebase, experiment with parameters, and embark on your journey into the uncharted territories of geometry.
