@@ -43,7 +43,7 @@ const loop = () => {
 
     drawTesseract(canvas.width / 2, canvas.height / 2, Tesseract2d);
 
-    angle += 0.03;
+    angle += 0.01;
     window.requestAnimationFrame(loop);
 }
 
